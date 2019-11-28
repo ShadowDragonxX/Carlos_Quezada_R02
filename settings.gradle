@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Recuperativa_Carlos_Quezada'
